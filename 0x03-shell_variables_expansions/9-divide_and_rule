@@ -1,0 +1,2 @@
+#!/bib/bash
+export $(( $POWER / $DIVIDE))
