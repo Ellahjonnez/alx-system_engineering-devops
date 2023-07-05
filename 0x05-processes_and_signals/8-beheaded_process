@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This cript kills the "7-Highlander" process with force
+
+pkill -KILL -f "7-highlander"
